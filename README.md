@@ -1,6 +1,6 @@
 
 # Hi everyone, I'm Santiago Guzmán (@Santi1475)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+<img align="center" alt="GIF" src="https://github.com/santi1475/santi1475/blob/4d791ced029746b0cb30132cdfba5fca736ea0f5/Portada1.png" width="45%" />
 <p width="45%">
 Hi, nice to meet you. Let me introduce myself in a few lines.
   <ul>
